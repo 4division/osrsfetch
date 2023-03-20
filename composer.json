@@ -1,0 +1,5 @@
+{
+    "require": {
+        "bert-w/runescape-hiscores-api": "^3.1"
+    }
+}
