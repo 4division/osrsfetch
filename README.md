@@ -1,9 +1,8 @@
 
 # OSRSfetch
+https://osrsfetch.com
 
 OSRSfetch is an Open Source Oldschool Runescape Hiscore landing page for players that generates title cards based on their username. Players can retrieve their stats, create groups, customize their profiles including avatars and bios, and share on Twitter. 
-
-https://osrsfetch.com
 
 ![Logo](https://osrsfetch.com/images/logo.png)
 
